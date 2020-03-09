@@ -1,0 +1,4 @@
+For this project, I've worked as data analysts for a company that builds Android and iOS mobile apps and makes those available on Google Play and the App Store.
+
+The company build apps that are free to download and install, and the main source of revenue consists of in-app ads. This means the revenue for any given app is mostly influenced by the number of users who use the app — the more users that see and engage with the ads, the better. The goal for this project was to analyze data to help developers understand what type of apps are likely to attract more users.
+
